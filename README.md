@@ -20,6 +20,7 @@ Feedback while playing the game.
 Installation
 =============
 Clone or download from GitHub: https://github.com/shresthasudil/project-1
+Run user_table.sql in your database, or create a 'users' table with given column constraints.
 
 General
 ========
