@@ -21,10 +21,11 @@ Installation
 =============
 Clone or download from GitHub: https://github.com/shresthasudil/project-1
 Run user_table.sql in your database, or create a 'users' table with given column constraints.
+Modify the config.php file with appropriate fields.
 
 General
 ========
-This project is buit as an assessment project for a job interview.
+This project is built as an assessment project for a job interview.
 
 Thank you!
 Sudil Shrestha
